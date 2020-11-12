@@ -72,6 +72,7 @@ To start Docker Machine, first make sure you’re in the project root and then s
     ```
 
 4. Grab the IP address associated with VM from Azure portal or `docker-machine ip production` and view it in the browser. If all went well, you should see your app running.
+
     ![Screenshot](flask-app.jpeg)
 
 ### Other References:
