@@ -2,7 +2,7 @@
 
 Docker image used for deployment [shrutikaponde/flask-postgres](https://hub.docker.com/r/shrutikaponde/flask-postgres).
 
-Dockerfile[(KubDockerfile)](https://github.com/shrutikaponde/orchestrating-docker/blob/master/web/KubDockerfile) used to build `shrutikaponde/flask-postgres` image.
+Dockerfile[(KubDockerfile)](https://github.com/shrutikaponde/orchestrating-docker/blob/master/web/KubDockerfile%20) used to build `shrutikaponde/flask-postgres` image.
 
 You can replace the image name with your own image from docker-hub.
 
